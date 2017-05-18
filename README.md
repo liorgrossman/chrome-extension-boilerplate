@@ -19,8 +19,11 @@ A Chrome Extension boilerplate with live-reload of content scripts and CSS.
 ## Contributing fixes and new themes
 **Pull requests are welcome!**
 
+## Check out my other projects
+* [Wikiwand - a modern interface to Wikipedia](http://www.wikiwand.com)
+* [BookAuthority - the best business books recommended by experts](https://bookauthority.org/)
+* [Darkness - dark themes for popular websites](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm)
+* [Select - beautiful photos for your new tab](https://chrome.google.com/webstore/detail/select-beautiful-photos-f/gidbhaipbdimcjbjkpnhkdhghpbghena)
+
 ##  License
 MIT
-
-
-
