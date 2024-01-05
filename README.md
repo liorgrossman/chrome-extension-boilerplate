@@ -1,8 +1,11 @@
 # Chrome Extension Boilerplate
 A Chrome Extension boilerplate with live-reload of content scripts and CSS.
 
+## Deprecated
+This project is deprecated since Google are transitioning to Manifest V3
+
 ## Features
-* Works out of the box - just fork, clone and load to Chrome!
+* Works out of the box - just fork, clone, and load to Chrome!
 * No need for complication or build tools
 * Live reload of content scripts JS and CSS files (avoids the need to reload the extension after each code change)
 * MIT licensed, suitable for commercial use
@@ -19,11 +22,9 @@ A Chrome Extension boilerplate with live-reload of content scripts and CSS.
 ## Contributing fixes and new themes
 **Pull requests are welcome!**
 
-## Check out my other projects
-* [Wikiwand - a modern interface to Wikipedia](http://www.wikiwand.com)
-* [BookAuthority - the best business books recommended by experts](https://bookauthority.org/)
-* [Darkness - dark themes for popular websites](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm)
-* [Select - beautiful photos for your new tab](https://chrome.google.com/webstore/detail/select-beautiful-photos-f/gidbhaipbdimcjbjkpnhkdhghpbghena)
+## Be in touch
+* Subscribe to my blog for updates: [LiorGrossman.com](https://liorgrossman.com/)
+* Check out my other projects: [Competely](https://competely.ai/), [Flawless](https://flawless.is/), [DreamGift](https://dreamgift.ai), [BookAuthority](https://bookauthority.org/), [Wisely](https://shopwisely.ai), and [others](https://liorgrossman.com/p/products).
 
 ##  License
 MIT
